@@ -1,5 +1,5 @@
 ## Portugese-Bank-Marketing-Project
-<h1 align="center">Bank-Marketing-Effectiveness-Prediction</h1>
+
 
 ![marketing-strategies-online-banking-experience](https://user-images.githubusercontent.com/121340232/225806989-08c95811-0c95-45e2-abac-fe6aedd1a4a4.jpg)
 
